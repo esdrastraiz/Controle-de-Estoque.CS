@@ -1,0 +1,14 @@
+C:\Users\esdra\Desktop\Controle de Estoque C#\bin\Debug\net8.0\Controle de Estoque C#.exe
+C:\Users\esdra\Desktop\Controle de Estoque C#\bin\Debug\net8.0\Controle de Estoque C#.deps.json
+C:\Users\esdra\Desktop\Controle de Estoque C#\bin\Debug\net8.0\Controle de Estoque C#.runtimeconfig.json
+C:\Users\esdra\Desktop\Controle de Estoque C#\bin\Debug\net8.0\Controle de Estoque C#.dll
+C:\Users\esdra\Desktop\Controle de Estoque C#\bin\Debug\net8.0\Controle de Estoque C#.pdb
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\Controle de Estoque C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\Controle de Estoque C#.AssemblyInfoInputs.cache
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\Controle de Estoque C#.AssemblyInfo.cs
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\Controle de Estoque C#.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\Controle de Estoque C#.dll
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\refint\Controle de Estoque C#.dll
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\Controle de Estoque C#.pdb
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\Controle de Estoque C#.genruntimeconfig.cache
+C:\Users\esdra\Desktop\Controle de Estoque C#\obj\Debug\net8.0\ref\Controle de Estoque C#.dll
